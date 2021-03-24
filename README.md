@@ -1,2 +1,2 @@
-# UCN Raspberry pi Pico development board 
+# UCN Raspberry Pi Pico development board 
 
